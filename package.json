@@ -1,5 +1,5 @@
 {
-  "name": "cloudinary-image-upload",
+  "name": "upload-cloudinary",
   "version": "1.0.0",
   "description": "Image upload with Cloudinary. It's a beautiful thing.",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DmsChrisPena/cloudinary-image-upload.git"
+    "url": "git+https://github.com/JagMolar/Upload-Cloudinary.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DmsChrisPena/cloudinary-image-upload/issues"
+    "url": "https://github.com/JagMolar/Upload-Cloudinary.git"
   },
-  "homepage": "https://github.com/DmsChrisPena/cloudinary-image-upload#readme",
+  "homepage": "https://github.com/JagMolar/Upload-Cloudinary.git",
   "dependencies": {
     "express": "^4.14.1",
     "mustache-express": "^1.2.4",
