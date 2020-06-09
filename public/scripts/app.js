@@ -1,5 +1,6 @@
-var CLOUDINARY_URL = 'https://api.cloudinary.com/v1_1/jagmolar/upload';//nuestra url de cloudinary y añadir /upload
-var CLOUDINARY_UPLOAD_PRESET = 'jlft07x6';//se obtiene desde settings/upload/uploads presets (clickar para enabled)
+// INCLUIR LOS DATOS PROPIOS EN LAS VARIABLES!!
+var CLOUDINARY_URL = 'https://api.cloudinary.com/v1_1/NUESTRANUBE/upload';//nuestra url de cloudinary y añadir /upload
+var CLOUDINARY_UPLOAD_PRESET = 'j******6';//se obtiene desde settings/upload/uploads presets (clickar para enabled)
 
 var imgPreview = document.getElementById('img-preview');
 var fileUpload = document.getElementById('file-upload');
